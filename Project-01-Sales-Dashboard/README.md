@@ -1,12 +1,11 @@
 
-Sales Dashboard – Microsoft Excel
-📌 Project Overview
+Sales Dashboard – Microsoft Excel Project Overview
 
 This project is an interactive Sales Dashboard built using Microsoft Excel to analyze sales performance and provide business insights through PivotTables, PivotCharts, slicers, and dynamic KPI indicators.
 
 The dashboard is designed to simulate a real-world MIS/Sales Reporting requirement where management can quickly monitor sales performance and analyze results by different business dimensions.
 
-🎯 Business Objective
+Business Objective
 
 The objective of this project is to transform raw sales data into an interactive dashboard that helps management:
 
@@ -18,7 +17,8 @@ Analyze salesperson performance
 Understand monthly sales trends
 Identify high-value customers
 Filter and analyze data interactively
-🗂️ Dataset
+
+ Dataset Used: 
 
 The dataset contains 100 sales transactions with information about:
 
@@ -39,7 +39,8 @@ Profit
 
 The dataset was structured as an Excel Table named SalesData for easier analysis and dynamic expansion.
 
-🛠️ Excel Skills Demonstrated
+
+Excel Skills Demonstrated:
 
 This project demonstrates the following Microsoft Excel skills:
 
@@ -56,7 +57,8 @@ Sorting and filtering
 Conditional formatting
 Dashboard design
 Business data analysis
-📊 Key Dashboard Components
+
+Key Dashboard Components:
 
 The dashboard includes KPI indicators for:
 
@@ -73,7 +75,8 @@ Sales by Salesperson
 Sales by Category
 Monthly Sales Trend
 Top Customers
-🎛️ Interactive Features
+
+Interactive Features:
 
 The dashboard uses interactive Slicers to allow users to filter the analysis by:
 
@@ -84,7 +87,7 @@ Month
 
 The PivotTables, charts, and KPI indicators are connected to the relevant filters to provide an interactive reporting experience.
 
-💡 Business Insights
+Business Insights:
 
 The dashboard can be used to identify:
 
@@ -95,25 +98,25 @@ Most profitable categories
 Monthly sales patterns
 Highest-value customers
 Areas requiring improvement
-📁 Project Files
+
+Project Files:
 Project-01-Sales-Dashboard/
 │
 ├── Sales_Dashboard.xlsx
 ├── Dataset.xlsx
 ├── Dashboard_Screenshot.png
 └── README.md
-🖥️ Dashboard Preview
 
+ 
+ Dashboard Preview:
 A screenshot of the completed dashboard is included in this repository.
 
-🎓 Skills Demonstrated for Employers
+Skills Demonstrated for Employers:
 
 This project demonstrates practical experience in using Microsoft Excel for business reporting, MIS analysis, dashboard development, data summarization, and management-level reporting.
-
 The project focuses on converting raw transactional data into meaningful and interactive business information.
 
-👤 Author
-
+Author
 Ranjit Kaur Monga
 
 Excel | MS Access | SQL | Data Analysis | MIS Reporting
